@@ -16,3 +16,7 @@ door: [@ricardoerikson](https://github.com/ricardoerikson)
 ### [bijvoeglijke-naamwoorden.json](bijvoeglijke-naamwoorden.json)
 door: [@mbenabda](https://github.com/mbenabda)
 [https://github.com/mbenabda/codename-generator/blob/master/adjectives](https://github.com/mbenabda/codename-generator/blob/master/adjectives)
+
+### [food.json](food.json)
+door: [@mbenabda](https://github.com/mbenabda)
+[https://github.com/mbenabda/codename-generator/blob/master/foods](https://github.com/mbenabda/codename-generator/blob/master/foods)
