@@ -8,3 +8,7 @@ door: [@muan](https://github.com/muan)
 ### [words.txt](words.txt)
 door: [@mindcrime](https://github.com/mindcrime)
 [https://github.com/mindcrime/dummydatagenerator/blob/master/data/street_names.txt](https://github.com/mindcrime/dummydatagenerator/blob/master/data/street_names.txt)
+
+### [star-wars-names.json](star-wars-names.json)
+door: [@ricardoerikson](https://github.com/ricardoerikson)
+[https://github.com/ricardoerikson/starwars-names-dummy/blob/master/src/starwars-names.json](https://github.com/ricardoerikson/starwars-names-dummy/blob/master/src/starwars-names.json)
