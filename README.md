@@ -12,3 +12,7 @@ door: [@mindcrime](https://github.com/mindcrime)
 ### [star-wars-names.json](star-wars-names.json)
 door: [@ricardoerikson](https://github.com/ricardoerikson)
 [https://github.com/ricardoerikson/starwars-names-dummy/blob/master/src/starwars-names.json](https://github.com/ricardoerikson/starwars-names-dummy/blob/master/src/starwars-names.json)
+
+### [bijvoeglijke-naamwoorden.json](bijvoeglijke-naamwoorden.json)
+door: [@mbenabda](https://github.com/mbenabda)
+[https://github.com/mbenabda/codename-generator/blob/master/adjectives](https://github.com/mbenabda/codename-generator/blob/master/adjectives)
