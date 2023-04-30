@@ -26,3 +26,6 @@ door: OpenAI
 
 ### [straatnamen.txt](straatnamen.txt)
 door: OpenAI
+
+### [mensennamen.txt](mensennamen.txt)
+door: OpenAI
