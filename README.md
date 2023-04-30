@@ -20,3 +20,6 @@ door: [@mbenabda](https://github.com/mbenabda)
 ### [food.json](food.json)
 door: [@mbenabda](https://github.com/mbenabda)
 [https://github.com/mbenabda/codename-generator/blob/master/foods](https://github.com/mbenabda/codename-generator/blob/master/foods)
+
+### [restaurantnames.txt](restaurantnames.txt)
+door: OpenAI
